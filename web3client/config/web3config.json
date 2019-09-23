@@ -1,0 +1,9 @@
+{
+    "rpc_url" : "http://localhost:8545",
+    "accounts" : ["0xBE6698EF4760d4222c1A86E70E565B8217dbE30c",
+                  "0x0b073953Fbf4D6ED3490A57598c397FC354E6Ff8"],
+    "contract_address" : ["0xe927CC81C9EE12ef036cA85E27DB0ef2D1e80f53"],
+    "other_address": "0xd90eA8da03CFB4bcea23a8d9060cEc09cE61a32e",
+    "private key" : "0xfc727347cf7cac82a9926259e98aa0b438a130220421054371d26e3142f66b15"
+}
+
